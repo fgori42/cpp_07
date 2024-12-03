@@ -1,7 +1,7 @@
 SRC = ./src/
 INCLUDE = ./include
 
-file = $(addprefix $(SRC), Main.cpp A.cpp B.cpp C.cpp Base.cpp)
+file = $(addprefix $(SRC), main.cpp)
 
 NAME =  identif
 
